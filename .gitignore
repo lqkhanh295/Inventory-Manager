@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.rsuser
+
+# Frontend
+node_modules/
+dist/
+.vite/
+.npm-cache/
+
+# Local runtime files
+work/
+outputs/
+backend/src/Eims.Api/App_Data/
+
+# Logs and temp
+*.log
+*.tmp
